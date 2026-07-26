@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://wmrmmbbwobxy"]
+
+[ext_resource type="Texture2D" uid="uid://ck6e6s8232rno" path="res://The-Scroll-of-Zidd/Assets/icon.svg" id="1_k4awc"]
+[ext_resource type="Texture2D" uid="uid://ta1tywxy8r2t" path="res://The-Scroll-of-Zidd/Assets/icon2.svg" id="2_g42kf"]
+
+[node name="Node2D" type="Node2D" unique_id=1059042450]
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=2112177744]
+position = Vector2(442, 277)
+scale = Vector2(1.4609375, 1.4609375)
+texture = ExtResource("1_k4awc")
+
+[node name="Icon2" type="Sprite2D" parent="." unique_id=59903369]
+position = Vector2(635, 310)
+scale = Vector2(0.953125, 0.953125)
+texture = ExtResource("2_g42kf")
